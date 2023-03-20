@@ -22,7 +22,6 @@
                         <ul class="fadeInUp animated">
                             <li><a href="#header" rel="m_PageScroll2id" class="__mPS2id _mPS2id-h">Главная<span></span></a></li>
                             <li><a href="#about" rel="m_PageScroll2id" class="__mPS2id _mPS2id-h mPS2id-highlight mPS2id-highlight-first mPS2id-highlight-last">Обо мне<span></span></a></li>
-                            <li><a href="#portfolio" rel="m_PageScroll2id" class="__mPS2id _mPS2id-h">Портфолио<span></span></a></li>
                             <li><a href="#contacts" rel="m_PageScroll2id" class="__mPS2id _mPS2id-h">Контакты<span></span></a></li>
                         </ul>
                     </div>
